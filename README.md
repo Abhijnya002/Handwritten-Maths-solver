@@ -1,4 +1,5 @@
-#Handwritten Maths Solver
+# Handwritten Maths Solver
+
 Our project is to predict the alphabets and the result of mathematical equations with
 maximum accuracy which is provided by user in the form of images to the model.
 The webapp gives user the choice to select between alphabets and equations and
