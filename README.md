@@ -20,7 +20,8 @@ Predicting results of the handwritten equations have achieved accuracy of up to 
 
 Our web page looks like this:
 
-![image](https://github.com/user-attachments/assets/796aeebb-a62f-48ef-a021-b747bed0696f)
+![1](https://github.com/user-attachments/assets/fa05bc31-4142-4f4b-bcaa-a32625c6b54a)
+
 
 ![image](https://github.com/user-attachments/assets/0e0541ac-556a-4e28-9839-3c871563f2e1)
 
