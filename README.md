@@ -1,3 +1,4 @@
+#Handwritten Maths Solver
 Our project is to predict the alphabets and the result of mathematical equations with
 maximum accuracy which is provided by user in the form of images to the model.
 The webapp gives user the choice to select between alphabets and equations and
@@ -16,3 +17,10 @@ This can be also further extended to identifying the handwritten characters of o
 languages too.
 Predicting results of the handwritten equations have achieved accuracy of up to 99
 %. This can be further extended to solve complex equations.
+
+Our web page looks like this:
+![image](https://github.com/user-attachments/assets/796aeebb-a62f-48ef-a021-b747bed0696f)
+
+![image](https://github.com/user-attachments/assets/0e0541ac-556a-4e28-9839-3c871563f2e1)
+
+
