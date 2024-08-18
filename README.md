@@ -19,6 +19,7 @@ Predicting results of the handwritten equations have achieved accuracy of up to 
 %. This can be further extended to solve complex equations.
 
 Our web page looks like this:
+
 ![image](https://github.com/user-attachments/assets/796aeebb-a62f-48ef-a021-b747bed0696f)
 
 ![image](https://github.com/user-attachments/assets/0e0541ac-556a-4e28-9839-3c871563f2e1)
